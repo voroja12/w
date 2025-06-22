@@ -1,4 +1,4 @@
 {
-  "allowedPlayers": ["", ""],
-  "allowedGroupOwners": [164546, 98765432]
+  "allowedOwnerIds": [12345678, 98765432],
+  "allowedGroupIds": [1234567, 7654321]
 }
