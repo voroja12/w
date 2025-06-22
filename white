@@ -1,4 +1,4 @@
 {
-  "allowedPlayers": ["", "AdminPlayer123"],
+  "allowedPlayers": ["yaroslavvoron08", "AdminPlayer123"],
   "allowedGroupOwners": [12345678, 98765432]
 }
