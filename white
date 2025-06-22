@@ -1,0 +1,4 @@
+{
+  "allowedPlayers": ["", "AdminPlayer123"],
+  "allowedGroupOwners": [12345678, 98765432]
+}
